@@ -11,5 +11,9 @@
     "application"
   ],
   "author": "jubaer Hosain",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "socket.io": "^4.4.1"
+  }
 }
